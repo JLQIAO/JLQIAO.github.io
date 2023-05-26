@@ -1,4 +1,4 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hello, this is Jialiang's blog. I'm a student of University of Queensland. You can use [Markdown](https://www.uq.edu.au/) to visit my beautiful campus.
 
 ![Image of fast.ai logo](./images/1.jpg)
 
