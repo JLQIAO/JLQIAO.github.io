@@ -1,4 +1,4 @@
-Hello, this is Jialiang's blog. I'm a student of University of Queensland. You can use [UQ](https://www.uq.edu.au/) to visit my beautiful campus.
+Hello, this is Jialiang's blog. I'm a student of University of Queensland. You can click [UQ](https://www.uq.edu.au/) to visit my beautiful campus.
 
 ![Image of fast.ai logo](./images/1.jpg)
 
